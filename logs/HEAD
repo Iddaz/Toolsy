@@ -1,0 +1,10 @@
+0000000000000000000000000000000000000000 95ae39eadf18270480553cbc9bd52217c6c3a6de Iddaz <81508694+Iddaz@users.noreply.github.com> 1621837850 +0300	clone: from https://github.com/IddazOrg/Tools.git
+95ae39eadf18270480553cbc9bd52217c6c3a6de 7d2eb3539ae98011e461554a641fb95d67658e73 Iddaz <81508694+Iddaz@users.noreply.github.com> 1622448484 +0300	pull --progress origin: Fast-forward
+7d2eb3539ae98011e461554a641fb95d67658e73 c5167bd507e4b459e99cf31919057507a82d4504 Iddaz <81508694+Iddaz@users.noreply.github.com> 1622464457 +0300	commit: Logger
+c5167bd507e4b459e99cf31919057507a82d4504 af96301326897a242067b7953dfc95592f636a54 Iddaz <81508694+Iddaz@users.noreply.github.com> 1623402386 +0300	commit: Logs
+af96301326897a242067b7953dfc95592f636a54 0ee6d94b3c47d87e50293cb6fba8071053b75325 Iddaz <81508694+Iddaz@users.noreply.github.com> 1623402389 +0300	pull --progress origin: Merge made by the 'recursive' strategy.
+0ee6d94b3c47d87e50293cb6fba8071053b75325 bd986e11d2884d2b998bc60ebd2b9d7aca92440d Iddaz <81508694+Iddaz@users.noreply.github.com> 1627720057 +0300	commit: More clearer code
+bd986e11d2884d2b998bc60ebd2b9d7aca92440d 098863a7041592cf54c40ede0db4c124dd448875 Iddaz <81508694+Iddaz@users.noreply.github.com> 1627725923 +0300	commit: Chalk
+098863a7041592cf54c40ede0db4c124dd448875 de3a0a3246968e244cd993503b0a725616337512 Iddaz <david.dzhibuti@gmail.com> 1790619226 +0200	commit: Publishing
+de3a0a3246968e244cd993503b0a725616337512 87a32463aefe9c13a0f5c7ed6dfa84985c688d42 Iddaz <david.dzhibuti@gmail.com> 1790619449 +0200	commit: Publishing
+87a32463aefe9c13a0f5c7ed6dfa84985c688d42 14918a9577e04f7697247647ddda7955b12efa55 Iddaz <david.dzhibuti@gmail.com> 1790619941 +0200	commit: Resetting
